@@ -6,6 +6,7 @@ data class Article(
     val urlToImage: String?,
     val author: String?,
     val url: String?,
+    val publishedAt: String?
 
 )
 
